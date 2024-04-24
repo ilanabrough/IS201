@@ -1,0 +1,104 @@
+.margin_auto {margin: auto;
+                background-color: darkkhaki;}
+
+.flex_header {
+        display: flex;
+        padding: 30px;
+        height: 60px;
+        font-size: 50px;
+        text-align: center;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: center;
+        background-color: rgb(85, 108, 108);
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/*.flex_left{
+        display: flex;
+        flex-wrap: wrap;
+        align-content: stretch;
+        width: 70%;
+        left: 5px;
+        background-color: rgb(255, 255, 233);
+}*/
+
+/*.flex_right{
+        display: flex;
+        flex-wrap: wrap;
+        align-content: left;
+        width: 30%;
+        right: 5px;
+        background-color: rgb(224, 199, 163);
+
+}*/
+
+.flex_footer {
+        display: flex;
+        bottom: 5px;
+        right: 5px;
+        left: 5px;
+        height: 75px;
+        position: fixed;
+        flex-wrap: wrap;
+        text-align: center;
+        background-color: cadetblue;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.body_part2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 18px;
+        font-weight: lighter;
+}
+
+body {background-color: azure;
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 25px;
+
+}
+
+.center_align {
+    text-align: center;
+    
+}
+
+.mission_box {
+    background-color: rgb(128, 163, 138);
+    font-family:'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    color: aliceblue;
+}
+
+img {
+    align:center;
+    
+}
+
+.center_align {
+    align:center;
+}
+
+.center_list {list-style-position: inside;
+                }
+
+iframe {align:center}
+
+
+.MTC {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color: rgb(92, 60, 92);
+}
+
+.missionary_style {
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(12, 26, 19);
+}
